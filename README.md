@@ -57,7 +57,7 @@ Este projeto também representa parte da minha jornada de aprendizado em Sistema
 ## 📬 Contato
 
 - GitHub: https://github.com/inaciobrunosales-creator
-- E-mail: bruno@udf.edu.br
+- E-mail: inaciobrunosale@gmail.com
 
 ---
 
